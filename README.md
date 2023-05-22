@@ -31,7 +31,7 @@
 |stack|java|spring boot|
 |-|-|-|
 |ict01|22|33|
-|ict02|33|44|
+|ict02|33|45|
 
 ## table  작성 2번
 | Name | Node | Spring Boot |
