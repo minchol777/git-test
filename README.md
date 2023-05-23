@@ -38,3 +38,17 @@
 |------|------|-------------|
 | AAA  | 66   | 77          |
 | BBB  | 88   | 99          |
+
+## badge
+<img  id="docker_btn" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+
+# 깃 용어 정리
+
+## master 
+> local repository 에 대한 branch 이름이다.
+
+## origin/master(main)
+> remote repository 의 branch 이름이다. 
+
+## origin 
+> remote repository 이다 .
